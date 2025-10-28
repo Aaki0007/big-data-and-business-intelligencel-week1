@@ -1,0 +1,3 @@
+{"event": "click", "user": "Ava", "path": "/home", "meta": {"device": "mobile", "utm": "spring"}}
+{"event": "view", "user": "Mina", "path": "/menu", "meta": {"device": "desktop"}}
+{"event": "purchase", "user": "Ava", "path": "/checkout", "meta": {"device": "mobile", "coupon": "WELCOME10"}}
